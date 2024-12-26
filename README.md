@@ -19,17 +19,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
 </div>
-
-<br>
-<h3 align="center"></h3>
-<div align="center">
-</div>
-
 <br>
 <div align="center">
   
-  ![carpbreadj's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpbreadj&show_icons=true&theme=dracula)
+----
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyjmk04)](https://solved.ac/skyjmk04)
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyjmk04)](https://solved.ac/skyjmk04)
+![carpbreadj's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpbreadj&show_icons=true&theme=dracula)
