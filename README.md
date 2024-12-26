@@ -2,7 +2,6 @@
 
 - YeungNam University
 
-
 - 42Gyeongsan
 <img src="https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white" />
 
