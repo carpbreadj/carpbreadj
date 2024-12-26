@@ -1,7 +1,6 @@
 <h3 align="center">✨ Tech Stacks ✨</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-11557c.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" />&nbsp
 </div>
 
