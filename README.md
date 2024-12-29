@@ -22,8 +22,3 @@
 <br>
 <div align="center">
   
-----
-
-[Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyjmk04)](https://solved.ac/skyjmk04)
-
-[carpbreadj's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpbreadj&show_icons=true&theme=dracula)
