@@ -1,7 +1,7 @@
 <h1 align="center">Carpbreadj</h1>
 
 <h5 align="center">
-- YeungNam University
+- Yeungnam University
 <h5 align="center">
 - 42 Gyeongsan
 </h5>
