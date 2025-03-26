@@ -3,7 +3,7 @@
 <h5 align="center">
 - Yeungnam University
 <h5 align="center">
-- 42 Gyeongsan
+- 42 Gyeongsan Cadet
 </h5>
 
   
