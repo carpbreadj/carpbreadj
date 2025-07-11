@@ -2,7 +2,7 @@
 <h5 align="left">
 - Yeungnam University
 <h5 align="left">
-- 42 Gyeongsan Cadet (2024.10 ~ )
+- 42 Gyeongsan
 </h5>
 
   
